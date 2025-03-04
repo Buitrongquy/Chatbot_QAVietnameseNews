@@ -20,8 +20,8 @@ Welcome to the **Chatbot Q&A** project! This project provides a flexible solutio
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/nvlinh99/QAVietnameseNews.git
-cd QAVietnameseNews
+git clone https://github.com/btquy/Chatbot_QAVietNameseNews.git
+cd Chatbot_QAVietNameseNews
 ```
 #### 2. Install Required Libraries
 
